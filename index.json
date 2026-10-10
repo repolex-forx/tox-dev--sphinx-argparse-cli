@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "sphinx-argparse-cli",
+  "versions": [
+    {
+      "commit": "dbdc5c366d69a8cad5ffbb6f59cb22993599dd85",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:51:47.364464+00:00"
+    }
+  ]
+}
