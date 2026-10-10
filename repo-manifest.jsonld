@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/sphinx-argparse-cli/commit/dbdc5c366d69a8cad5ffbb6f59cb22993599dd85",
       "git:hexsha": "dbdc5c366d69a8cad5ffbb6f59cb22993599dd85",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/sphinx-argparse-cli/commit/cce9329839a61aa8a990ece7355d02ea62f2c9a3",
